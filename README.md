@@ -12,4 +12,5 @@ We show the performance of EEGNet on each of the subjects, by dividing the trial
 
 Then, we show the performance of EEGNet for few shot classifaction by taking the test subject as $i$ and the other subjects as train subjects. We do this for each $i$ = 1 to 9.
 
-###Results on subject 9:
+### Results on subject 9:
+![]{image.png}
